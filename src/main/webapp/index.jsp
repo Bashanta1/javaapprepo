@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hellow World ! Third try  Atomation started in Jenkins using slave nodes for deploying java based web application</h2>
+<h2>New code depolying by Jenkins slave</h2>
 </body>
 </html>
